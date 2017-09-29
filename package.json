@@ -1,6 +1,6 @@
 {
   "name": "vue-devour",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JSON API client adapter for vue.js",
   "main": "src/index.js",
   "repository": "git@github.com:therufa/vue-devour.git",
